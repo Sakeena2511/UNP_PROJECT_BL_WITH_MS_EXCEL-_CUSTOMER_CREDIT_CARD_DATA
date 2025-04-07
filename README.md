@@ -5,4 +5,6 @@ Our project focused on visualizing trends, customer spending behavior, and perfo
 This was a group project with three of my peers, where we collaborated to ensure data accuracy and meaningful interpretations. 
 The project enhanced our data handling, analytical, and visualization skills in Excel. We applied the concepts taught in our UNP classes, gaining practical exposure to business analytics. 
 This experience strengthened my proficiency in Excel for real-world financial data analysis. Additionally, we learned how to structure and present data-driven reports professionally. The project helped us understand the importance of data-driven decision-making in the financial sector
+
+
 MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1_VbjnyRqkIti3GBjGO0B-82lA3hbmjZR/edit?usp=sharing&ouid=108063560669960845790&rtpof=true&sd=true

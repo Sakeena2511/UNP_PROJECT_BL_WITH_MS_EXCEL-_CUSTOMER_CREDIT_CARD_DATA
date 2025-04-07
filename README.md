@@ -7,4 +7,4 @@ The project enhanced our data handling, analytical, and visualization skills in 
 This experience strengthened my proficiency in Excel for real-world financial data analysis. Additionally, we learned how to structure and present data-driven reports professionally. The project helped us understand the importance of data-driven decision-making in the financial sector
 
 
-MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1_VbjnyRqkIti3GBjGO0B-82lA3hbmjZR/edit?usp=sharing&ouid=108063560669960845790&rtpof=true&sd=true
+MS EXCEL PROJECT FILE: https://1drv.ms/x/c/7ec7c31517c0f886/ET7dM_ftKeVNmQip0ps7M7EBo7iMeHm-X46Ccd6IwSRMyA?e=FaIMhO
